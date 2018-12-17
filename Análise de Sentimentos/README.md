@@ -1,0 +1,2 @@
+[PT] Análise de sentimentos do Twitter utilizando as bibliotecas Bloob e NLTK trinados em português. 
+[EN] Twitter sentiment analisys using Bloob and NLTK libraries in Portugues with ReLi-Lex as training dataset. 
